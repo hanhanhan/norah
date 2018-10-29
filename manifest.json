@@ -1,0 +1,10 @@
+{
+  "main.js": "render-page.js",
+  "main.js.map": "render-page.js.map",
+  "static/ballet.jpg": "static/ballet-d20630a6585dc8d4f3c008b78a831fdd.jpg",
+  "static/biopsy.jpg": "static/biopsy-18350eb55589b3fcfe71683cd3da40aa.jpg",
+  "static/norah_heart.jpg": "static/norah_heart-efe8dc63ac702a3140a857d2572b0dc9.jpg",
+  "static/sky.jpg": "static/sky-af44c1760d69f9921bb3e08a9a7a5fb0.jpg",
+  "static/tree.jpg": "static/tree-cafbe9c2ea8e6dd0e7e2c84e0f4bfd76.jpg",
+  "static/twinsies.jpg": "static/twinsies-a80f791af374f9f38f958b8a2b88bc56.jpg"
+}
